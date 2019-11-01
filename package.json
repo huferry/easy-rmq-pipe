@@ -1,0 +1,26 @@
+{
+  "name": "easy-rmq-pipe",
+  "version": "0.0.1",
+  "description": "Build a robust processing pipelines using RabbitMQ, the easy way!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huferry/easy-rmq-pipe.git"
+  },
+  "keywords": [
+    "rabbitmq",
+    "queue",
+    "messaging",
+    "pipeline",
+    "pipe"
+  ],
+  "author": "Ferry Utomo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huferry/easy-rmq-pipe/issues"
+  },
+  "homepage": "https://github.com/huferry/easy-rmq-pipe#readme"
+}
