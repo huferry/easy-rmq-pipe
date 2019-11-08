@@ -1,6 +1,6 @@
 {
   "name": "easy-rmq-pipe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Build a robust processing pipelines using RabbitMQ, the easy way!",
   "main": "index.js",
   "scripts": {
